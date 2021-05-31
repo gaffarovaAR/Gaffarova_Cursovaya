@@ -1,0 +1,38 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Advanced Lighting.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\User\Desktop\КГ\Gaffarova_LR3\Hello_Window\shader.h(61,40): warning C4101: 'e': unreferenced local variable
+C:\Users\User\Desktop\КГ\Gaffarova_LR3\Hello_Window\main.cpp(136,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\КГ\Gaffarova_LR3\Hello_Window\main.cpp(146,35): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\КГ\Gaffarova_LR3\Hello_Window\main.cpp(147,35): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\КГ\Gaffarova_LR3\Hello_Window\main.cpp(205,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\КГ\Gaffarova_LR3\Hello_Window\main.cpp(215,35): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\КГ\Gaffarova_LR3\Hello_Window\main.cpp(217,35): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\КГ\Gaffarova_LR3\Hello_Window\main.cpp(221,35): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\КГ\Gaffarova_LR3\Hello_Window\main.cpp(223,35): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\User\Desktop\КГ\Gaffarova_LR3\Hello_Window\main.cpp(966,30): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\КГ\Gaffarova_LR3\Hello_Window\main.cpp(1343,37): warning C4101: 'vboNormals': unreferenced local variable
+  Hello_Window.vcxproj -> C:\Users\User\Desktop\КГ\bin\Gaffarova_LR3.exe
